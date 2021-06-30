@@ -13,7 +13,7 @@ anime = pd.read_csv("anime.csv", usecols=col)  # 69
 
 developer = pd.read_csv("developer.csv", usecols=col)  # 6
 
-economy = pd.read_csv("economy.csv", usecols=col)  # 69
+economy = pd.read_csv("economy.csv", usecols=col)  # 69+1-1
 
 fun = pd.read_csv("fun.csv", usecols=col)  # 70
 
